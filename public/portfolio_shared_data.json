@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "author",
-      "titles": [ "Software Developer" ],
+      "name": "Antonio G.P.",
+      "titles": ["IT Support & Networking Specialist", " | ", "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "your github",
+          "url": "https://github.com/tonch-LIV",
           "class": "fab fa-github"
         },
         {
           "name": "Linkedin",
-          "url": "your linkedin",
+          "url": "www.linkedin.com/in/a-garcia-p",
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile_pic.jpg"
     },
     "skills": {
       "icons": [
