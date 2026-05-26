@@ -6,7 +6,8 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "certifications": "Certifications"
       }
     },
     "projects": [
@@ -86,7 +87,7 @@
     "experience": [
       {
         "company": "GICW",
-        "title": "Full-Stack Developer Student",
+        "title": "Full-Stack Development Student",
         "years": "2025 - 2027",
         "mainTech": [
           "VS Code", "WSL", "Git"

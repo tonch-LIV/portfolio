@@ -11,4 +11,7 @@
     - edited `experience` and added more to `decription`, as well as added `certifications` inside of `res_primaryLanguage.json`.
     - created class `Certifications` inside `Certifications.js`; imported into `Home.js`.
     - broken linkedin link; need to fix.
+    - passed `certifications` and `basic_info` as props through `<Certifications />` within `Home.js`.
+    - Inside `Certifications.js`, defined `sectionName` and `certifications` variables to render content.
+    - updated `section_name` in `res_primaryLanguage.json` to include `"certifications": "Certifications"`.
     - 
