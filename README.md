@@ -16,3 +16,5 @@
     - updated `section_name` in `res_primaryLanguage.json` to include `"certifications": "Certifications"`.
     - Lighthouse accessibility test ![lighthouse test, 83](public/images/lighthouse_05.25.png)
     - created `projectsUpdate` branch.
+  - 05.26
+    - updated pictures.
