@@ -6,7 +6,9 @@
     - added project screenshots folders.
   - 05.25
     - commented out `<a>` that references template on github in `Header.jsx`.
-    - updated `titles` and `devicon`'s in `portfoli_shared_data`.
+    - updated `titles` and `devicon`'s in `portfolio_shared_data`.
     - created `Cerifications.js` and added as plaveholder in `Home.js`.
-    - edited `experience` inside of `public/res_primaryLanguage.json`.
+    - edited `experience` and added more to `decription`, as well as added `certifications` inside of `res_primaryLanguage.json`.
+    - created class `Certifications` inside `Certifications.js`; imported into `Home.js`.
+    - broken linkedin link; need to fix.
     - 

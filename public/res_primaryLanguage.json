@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋Your name. I’m currently learning full stack dev. I’m interested in leveraging tech for impactful solutions. 💜",
+      "description_header": "Hello👋",
+      "description": "I’m currently learning full stack web app development with tools like React and JavaScript. My background is in technical support and network configuration. I’m interested in leveraging tech for impactful solutions. 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -120,6 +120,32 @@
           "Switching and Routing Technologies",
           "Network Monitoring (SNMP)"
         ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "CompTIA ITF+",
+        "issuer": "CompTIA"
+      },
+      {
+        "name": "CompTIA A+",
+        "issuer": "CompTIA"
+      },
+      {
+        "name": "CompTIA Network+ (CIOS)",
+        "issuer": "CompTIA"
+      },
+      {
+        "name": "Microsoft Office Specialist",
+        "issuer": "Microsoft"
+      },
+      {
+        "name": "Code 102: Introduction to Software Development",
+        "issuer": "GICW"
+      },
+      {
+        "name": "Code 201: Foundations of Software Development",
+        "issuer": "GICW"
       }
     ]
   }
