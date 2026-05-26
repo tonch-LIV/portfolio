@@ -85,32 +85,40 @@
     ],
     "experience": [
       {
-        "company": "Code Fellows",
-        "title": "Front-End Developer student",
-        "years": "9.2023 - present",
+        "company": "GICW",
+        "title": "Full-Stack Developer Student",
+        "years": "2025 - 2027",
         "mainTech": [
-          "placeholder"
+          "VS Code", "WSL", "Git"
         ],
         "technologies": [
           "HTML",
           "JavaScript",
           "Bootstrap",
-          "CSS"
+          "CSS",
+          "React",
+          "Markdown",
+          "Node.js"
         ]
       },
       {
-        "company": "company X",
-        "title": "Intern",
-        "years": "9.2023",
+        "company": "LearnKey, Inc",
+        "title": "Student",
+        "years": "2024 - 2025",
         "mainTech": [
-          "placeholder"
+          "Hardware Components", "Networking Concepts and Fundamentals"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "ANSI/TIA/EIA",
+          "OSI Model / DoD",
+          "IPv4 and IPv6",
+          "Packet Tracer",
+          "Wireshark",
+          "Linux",
+          "Active Directory / Azure",
+          "Routing and Routed Protocols",
+          "Switching and Routing Technologies",
+          "Network Monitoring (SNMP)"
         ]
       }
     ]
