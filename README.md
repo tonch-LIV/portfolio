@@ -18,3 +18,8 @@
     - created `projectsUpdate` branch.
   - 05.26
     - updated pictures.
+    - fixed linkedin link.
+    - updated project details in `res_primaryLanguage.json`.
+    - commented on section in `Footwr.js` used for secondary language.
+    - updated link to devicons in `index.html`
+    - 
