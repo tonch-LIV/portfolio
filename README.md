@@ -21,5 +21,8 @@
     - fixed linkedin link.
     - updated project details in `res_primaryLanguage.json`.
     - commented on section in `Footwr.js` used for secondary language.
-    - updated link to devicons in `index.html`
+    - updated link to devicons in `index.html` as well as `<meta>` describing site.
+    - fixed the name and file path for `fish_bicuits` img directory.
+    - added buttons on `ProjectDetailsModal.js` for buttons to both repo and live site.
+    - edited alt text in `About.js` for profile picture,
     - 

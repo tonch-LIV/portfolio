@@ -16,8 +16,8 @@
         "startDate": "2026",
         "description": "Fictional product sales web application focused on tracking and visualizing store sales data through dynamic JavaScript functionality and data generation, responsive layouts, and interactive user experiences. Built using HTML5, CSS3, JavaScript, Git, and GitHub workflow practices.",
         "images": [
-          "/images/portfolio/fish_buiscuits/fishHome.png",
-          "/images/portfolio/fish_buiscuits/fish_sales.png"
+          "images/portfolio/fish_biscuits/fishHome.png",
+          "images/portfolio/fish_biscuits/fish_sales.png"
         ],
         "github": "https://github.com/tonch-LIV/fish_biscuits",
         "demo": "https://tonch-liv.github.io/fish_biscuits/",
@@ -64,7 +64,7 @@
       {
         "title": "React app: Gallery of Horns",
         "startDate": "2026",
-        "description": "Developed an interactive React application using Vite, JavaScript, Bootstrap, and reusable component architecture. Implemented state management, dynamic rendering, props-based data flow, and interactive filtering functionality to create a searchable horned creature gallery experience. I've learned a lot about creating a React app using Vite, working with `.jsx` components and deplying it live",
+        "description": "Developed an interactive React application using Vite, JavaScript, Bootstrap, and reusable component architecture. Implemented state management, dynamic rendering, props-based data flow, and interactive filtering functionality to create a searchable horned creature gallery experience. I've learned a lot about creating a React app using Vite, working with `.jsx` components and deploying it live",
         "images": [
           "images/portfolio/horn-e/horn-e_Landing.png",
           "images/portfolio/horn-e/horn-e_form.png"
