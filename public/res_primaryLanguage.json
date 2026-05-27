@@ -12,14 +12,15 @@
     },
     "projects": [
       {
-        "title": "Tea Explorer Website",
-        "startDate": "2023",
-        "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
+        "title": "fish_Biscuits",
+        "startDate": "2026",
+        "description": "Fictional product sales web application focused on tracking and visualizing store sales data through dynamic JavaScript functionality and data generation, responsive layouts, and interactive user experiences. Built using HTML5, CSS3, JavaScript, Git, and GitHub workflow practices.",
         "images": [
-          "images/portfolio/tea-explorer/p1.jpg",
-          "images/portfolio/tea-explorer/p2.jpg"
+          "images/portfolio/fish_biscuits/fishHome.png",
+          "images/portfolio/fish_biscuits/fish_sales.png"
         ],
-        "url": "https://team-quicm.github.io/Tea-Explorer/index.html",
+        "github": "https://github.com/tonch-LIV/fish_biscuits",
+        "demo": "https://tonch-liv.github.io/fish_biscuits/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -36,14 +37,15 @@
         ]
       },
       {
-        "title": "personal-project",
-        "startDate": "2023",
-        "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
+        "title": "201 Final - book_Nook",
+        "startDate": "2026",
+        "description": "Developed a dynamic and responsive front-end book discovery application using JavaScript, HTML5, and CSS3. Implemented interactive client-side functionality, structured layouts, DOM manipulation techniques, and version control practices through Git and GitHub collaboration workflows. Designed to provide users with an organized browsing experience for exploring book-related content and recommendations.",
         "images": [
-          "images/portfolio/personal-project/p1.jpg",
-          "images/portfolio/personal-project/p2.jpg"
+          "images/portfolio/book_Nook/201final_Table.png",
+          "images/portfolio/book_Nook/201final_Reviews.png"
         ],
-        "url": "https://qilinxie02.github.io/resume/",
+        "github": "https://github.com/tonch-LIV/book_Nook",
+        "demo": "https://tonch-liv.github.io/book_Nook/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -61,14 +63,23 @@
       },
       {
         "title": "React app: Gallery of Horns",
-        "startDate": "2024",
-        "description": "One of the first react app I was working during my time in Code Fellows 301. I've learned a lot!",
+        "startDate": "2026",
+        "description": "Developed an interactive React application using Vite, JavaScript, Bootstrap, and reusable component architecture. Implemented state management, dynamic rendering, props-based data flow, and interactive filtering functionality to create a searchable horned creature gallery experience. I've learned a lot about creating a React app using Vite, working with `.jsx` components and deploying it live",
         "images": [
-          "images/portfolio/react-app/p1.jpg",
-          "images/portfolio/react-app/p2.jpg"
+          "images/portfolio/horn-e/horn-e_Landing.png",
+          "images/portfolio/horn-e/horn-e_form.png"
         ],
-        "url": "https://qilin-qallery-of-horns.netlify.app/",
+        "github": "https://github.com/tonch-LIV/horn-e",
+        "demo": "https://horn-e.netlify.app/",
         "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-vitejs-plain",
+            "name": "Vite"
+          },
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
@@ -110,7 +121,7 @@
           "Hardware Components", "Networking Concepts and Fundamentals"
         ],
         "technologies": [
-          "ANSI/TIA/EIA",
+          "ANSI/TIA/EIA Standards",
           "OSI Model / DoD",
           "IPv4 and IPv6",
           "Packet Tracer",

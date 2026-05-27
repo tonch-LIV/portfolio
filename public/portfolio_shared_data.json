@@ -10,7 +10,7 @@
         },
         {
           "name": "Linkedin",
-          "url": "linkedin.com/in/a-garcia-p",
+          "url": "https://www.linkedin.com/in/a-garcia-p",
           "class": "fab fa-linkedin"
         }
       ],
@@ -20,7 +20,12 @@
       "icons": [
         {
           "name": "VS Code",
-          "class": "devicon-visualstudio-plain",
+          "class": "devicon-vscode-plain",
+          "level": "60"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
           "level": "60"
         },
         {
@@ -46,6 +51,11 @@
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Vite",
+          "class": "devicon-vitejs-plain",
           "level": "85"
         },
         {

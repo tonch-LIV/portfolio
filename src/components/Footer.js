@@ -19,6 +19,7 @@ class Footer extends Component {
         <div className="container">
           <div className="row">
             <div className="col social-links">{networks}</div>
+            {/* section for secondary language selection */}
             <div className="col">
               <div 
                 onClick={() =>
