@@ -25,4 +25,6 @@
     - fixed the name and file path for `fish_bicuits` img directory.
     - added buttons on `ProjectDetailsModal.js` for buttons to both repo and live site.
     - edited alt text in `About.js` for profile picture,
+    - [projectsUpdate](https://github.com/tonch-LIV/portfolio/pull/1) merge info.
+    - post merge lighthouse test; ![lighthouse score of 83](public/images/lighthouse_05.27_projects.png)
     - 
